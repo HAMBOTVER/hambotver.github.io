@@ -1,6 +1,6 @@
 const RaceCar = ({ primaryColor, secondaryColor }) => (
   <svg
-    width="200px"
+    width="17vw"
     style={{ display: "inline" }}
     id="emoji"
     viewBox="0 0 72 72"
